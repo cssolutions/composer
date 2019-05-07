@@ -8,8 +8,10 @@
 
 namespace Teszt;
 
+use Illuminate\Support\ServiceProvider;
 
-class Teszt
+
+class Teszt extends ServiceProvider
 {
 
     /**
