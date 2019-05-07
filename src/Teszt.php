@@ -11,10 +11,6 @@ namespace Teszt;
 
 class Teszt
 {
-    /**
-     * {@inheritdoc}
-     */
-    protected $defer = true;
 
     /**
      * Bootstrap the service provider.
